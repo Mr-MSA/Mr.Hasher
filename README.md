@@ -1,2 +1,91 @@
-# Mr_Hasher
-Mr.Hasher tool for hashing!
+# Mr.Hasher 
+
+Mr.Hasher tool for hashing! 
+
+
+prescription php (web)
+
+Coded By MR.MSA
+
+
+[Mr.Hasher Online (Click)
+](https://tools.mr-msa.xyz/tools/mr.hasher)
+
+Hash support:
+
+<pre>
+
+MD5
+MD4
+MD2
+SHA1
+SHA224
+SHA256
+SHA384
+SHA512
+SHA3-224
+SHA3-256
+SHA3-384
+SHA3-512
+RIPEMD-128
+RIPEMD-160
+RIPEMD-256
+RIPEMD-320
+FNV132
+FNV1A64
+FNV164
+FNV1A32
+HAVAL-128,3
+HAVAL-160,3
+HAVAL-192,3
+HAVAL-224,3
+HAVAL-256,3
+HAVAL-128,4
+HAVAL-160,4
+HAVAL-192,4
+HAVAL-224,4
+HAVAL-256,4
+HAVAL-128,5
+HAVAL-160,5
+HAVAL-192,5
+HAVAL-224,5
+HAVAL-256,5
+TIGER-128,3
+TIGER-160,3
+TIGER-192,3
+TIGER-128,4
+TIGER-160,4
+TIGER-192,4
+ADLER-32
+CONVERTUUENCODE
+GOST
+JOAAT
+CRC32C
+CRC32B
+CRC32
+SNEFRU
+WHIRLPOOL
+BASE64
+HEX
+ASCII
+</pre>
+
+prescription c#  (windows)
+
+Coded By HCSH4C39
+
+Hash support:
+
+<pre>
+
+MD5
+SHA 160
+SHA 256
+SHA 384
+SHA 512
+RIPEMD 160
+
+=======================
+</pre>
+
+By[ Guardiran Security Team ](https://guardiran.org/)
