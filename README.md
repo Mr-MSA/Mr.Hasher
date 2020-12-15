@@ -9,7 +9,7 @@ Coded By MR.MSA
 
 
 [Mr.Hasher Online (Click)
-](https://tools.mr-msa.xyz/tools/mr.hasher)
+](https://mr-msa.xyz/tools/tools/mr.hasher)
 
 Hash support:
 
